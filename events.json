@@ -8849,14 +8849,14 @@
   },
   {
     "name": "GOLDEN STATE VALKYRIES W VS ATLANTA DREAM W --- CH 1",
-    "m3u": "http://193.47.62.44/hls/DDDDVA.m3u8",
+    "m3u": "http://193.47.62.50/hls/UTTT.m3u8",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
     "referer": "http://www.fawanews.sc/",
     "origin": "http://www.fawanews.sc"
   },
   {
     "name": "GOLDEN STATE VALKYRIES W VS ATLANTA DREAM W --- CH 2",
-    "m3u": "https://www.rtmpcdn.com/live/f67048a2-75f1-47e8-9c2d-1497bcdf4e13.m3u8",
+    "m3u": "https://www.rtmpcdn.com/live/d42410bc-9b78-454c-9f6d-3ed5e45ea3a0.m3u8",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
     "referer": "http://www.fawanews.sc/",
     "origin": "http://www.fawanews.sc"
@@ -12006,7 +12006,7 @@
   },
   {
     "name": "DEP PASTO VS ALIANZA",
-    "m3u": null,
+    "m3u": "http://193.47.62.50/hls/O555A.m3u8",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
     "referer": "http://www.fawanews.sc/",
     "origin": "http://www.fawanews.sc"
@@ -12048,7 +12048,7 @@
   },
   {
     "name": "CARTAGENA VS PATRIOTAS",
-    "m3u": null,
+    "m3u": "http://193.47.62.50/hls/O555A.m3u8",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
     "referer": "http://www.fawanews.sc/",
     "origin": "http://www.fawanews.sc"
@@ -12133,6 +12133,13 @@
   {
     "name": "MUSHUC RUNA VS ORENSE",
     "m3u": "http://193.47.62.50/hls/O555AAAAA.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "SAN FRANCISCO 49ERS VS WASHINGTON COMMANDERS --- CH 4",
+    "m3u": "https://admin.formaturamaxi.com.br/nfl.m3u8",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
     "referer": "http://www.fawanews.sc/",
     "origin": "http://www.fawanews.sc"
