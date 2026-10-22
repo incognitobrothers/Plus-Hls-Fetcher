@@ -3956,14 +3956,14 @@
   },
   {
     "name": "LOS ANGELES LAKERS VS GOLDEN STATE WARRIORS --- CH 1",
-    "m3u": "http://193.47.62.59/hls/R111AA.m3u8",
+    "m3u": "http://193.47.62.55/hls/T777.m3u8",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
     "referer": "http://www.fawanews.sc/",
     "origin": "http://www.fawanews.sc"
   },
   {
     "name": "LOS ANGELES LAKERS VS GOLDEN STATE WARRIORS --- CH 2",
-    "m3u": "https://www.rtmpcdn.com/live/0446e638-3a67-4dfa-9418-74dd0c95250d.m3u8",
+    "m3u": "https://www.rtmpcdn.com/live/8f9dbea8-5595-4afc-ae99-fd74531a902b.m3u8",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
     "referer": "http://www.fawanews.sc/",
     "origin": "http://www.fawanews.sc"
@@ -13519,6 +13519,62 @@
   {
     "name": "SANTA FE VS JAGUARES DE CORDOBA",
     "m3u": "http://193.47.62.50/hls/F777.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "LOS ANGELES CLIPPERS VS SACRAMENTO KINGS --- CH 1",
+    "m3u": "http://193.47.62.41/hls/T777AA.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "LOS ANGELES CLIPPERS VS SACRAMENTO KINGS --- CH 2",
+    "m3u": "https://www.rtmpcdn.com/live/f29908ce-c46f-43fb-8ead-087c18a2a3a4.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "LOS ANGELES LAKERS VS GOLDEN STATE WARRIORS --- CH 3",
+    "m3u": "https://admin.formaturamaxi.com.br/nba3.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "PORTLAND TRAIL BLAZERS VS PHOENIX SUNS --- CH 1",
+    "m3u": "http://193.47.62.41/hls/T777A.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "PORTLAND TRAIL BLAZERS VS PHOENIX SUNS --- CH 2",
+    "m3u": "https://www.rtmpcdn.com/live/be59dc08-1db5-4796-a521-c92d151d6906.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "PORTLAND TRAIL BLAZERS VS PHOENIX SUNS --- CH 3",
+    "m3u": "https://admin2.formaturamaxi.com.br/nba10.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "GOLF GENESIS CHAMPIONSHIP",
+    "m3u": "http://193.47.62.59/hls/LOOOA.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "BMW LADIES CHAMPIONSHIP",
+    "m3u": "http://193.47.62.59/hls/LOOO.m3u8",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
     "referer": "http://www.fawanews.sc/",
     "origin": "http://www.fawanews.sc"
